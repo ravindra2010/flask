@@ -6,7 +6,7 @@ metadata:
     ingress.kubernetes.io/rewrite-target: /
 spec:
   rules:
-  - host: hello.world
+  - host:
     http:
       paths:
       - path: /
