@@ -15,4 +15,4 @@ spec:
       - path: /books
         backend:
           serviceName: flask
-          servicePort: 80
+          servicePort: 5000
